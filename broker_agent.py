@@ -122,7 +122,7 @@ def handler(messages: list[dict[str, str]]) -> str:
 
 
 config = {
-    "author": "your@email.com",
+    "author": "roy36tinku.1979@gmail.com",
     "name": "broker_agent",
     "description": (
         "An orchestration agent that decomposes any goal into subtasks, "
